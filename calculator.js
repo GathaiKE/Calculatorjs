@@ -14,9 +14,6 @@ console.log("clicked");
     const action = values[1][0]
     let result=null
 
-    // console.log("initial Value is "+initialValue);
-    // console.log("Action is "+action);
-    // console.log("last Value is "+lastValue);
 
     if(action==="+"){
         result= initialValue + lastvalue
